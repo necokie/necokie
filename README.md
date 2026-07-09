@@ -2,7 +2,7 @@
 
 <div id="badges" align="center">
   <!-- Profilga necha kishi kirganini hisoblagich (Maqolada aytilganidek) -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=necokie&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
 ---
@@ -11,10 +11,10 @@
 
 I am an independent **Mobile & Software Developer** from Samarkand, Uzbekistan, passionately building high-performance Android applications. 
 
-- :telescope: **What I do:** Focus heavily on Kotlin, Python, and advanced mobile architectures.
-- :sedling: **Current Status:** Completing my 1st year at Tashkent University of Information Technologies (TUIT).
-- :trophy: **Achievements:** 2nd Place Winner at **Techstars Startup Weekend 2026** and participant at **Mohirfest 2022**.
-- :zap: **Fun Fact:** I skipped general hobbies to build custom product filters, low-latency messengers, and interactive games from scratch.
+-  **What I do:** Focus heavily on Kotlin, Python, and advanced mobile architectures.
+-  **Current Status:** Completing my 1st year at Tashkent University of Information Technologies (TUIT).
+-  **Achievements:** 2nd Place Winner at **Techstars Startup Weekend 2026** and participant at **Mohirfest 2022**.
+-  **Fun Fact:** I skipped general hobbies to build custom product filters, low-latency messengers, and interactive games from scratch.
 
 ---
 
@@ -37,5 +37,3 @@ I am an independent **Mobile & Software Developer** from Samarkand, Uzbekistan, 
 
 ---
 
-### :mailbox: Connect with me
-Feel free to reach out via email: **humoyunjon@necokie.com**
